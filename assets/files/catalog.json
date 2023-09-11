@@ -1,0 +1,39 @@
+{
+    "products":[
+        {
+            "name":"Iron Man",
+            "discript":"Iron Man, like knights of old, is identified by the armor he wears. The best-dressed of the Marvel heroes, he has changed his look frequently since his debut in 1963, but he can afford to: the man who wears the suits (and designs them) is wealthy inventor Tony Stark.",
+            "color1":"OXFFFF9800",
+            "color2":"OXFFFF5722",
+            "image":"assets/iron_man.png"
+        },
+        {
+            "name":"Captain America",
+            "discript":"Iron Man, like knights of old, is identified by the armor he wears. The best-dressed of the Marvel heroes, he has changed his look frequently since his debut in 1963, but he can afford to: the man who wears the suits (and designs them) is wealthy inventor Tony Stark.",
+            "color1":"OXFFFF9800",
+            "color2":"OXFFFF5722",
+            "image":"assets/iron_man.png"
+        },
+        {
+            "name":"Captain Marvel",
+            "discript":"Iron Man, like knights of old, is identified by the armor he wears. The best-dressed of the Marvel heroes, he has changed his look frequently since his debut in 1963, but he can afford to: the man who wears the suits (and designs them) is wealthy inventor Tony Stark.",
+            "color1":"OXFFFF9800",
+            "color2":"OXFFFF5722",
+            "image":"assets/iron_man.png"
+        },
+        {
+            "name":"Thor",
+            "discript":"Iron Man, like knights of old, is identified by the armor he wears. The best-dressed of the Marvel heroes, he has changed his look frequently since his debut in 1963, but he can afford to: the man who wears the suits (and designs them) is wealthy inventor Tony Stark.",
+            "color1":"OXFFFF9800",
+            "color2":"OXFFFF5722",
+            "image":"assets/iron_man.png"
+        },
+        {
+            "name":"Hulk",
+            "discript":"Iron Man, like knights of old, is identified by the armor he wears. The best-dressed of the Marvel heroes, he has changed his look frequently since his debut in 1963, but he can afford to: the man who wears the suits (and designs them) is wealthy inventor Tony Stark.",
+            "color1":"OXFFFF9800",
+            "color2":"OXFFFF5722",
+            "image":"assets/iron_man.png"
+        }
+    ]
+}
